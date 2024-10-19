@@ -1,0 +1,7 @@
+Comandos
+cd(change directory)-muda o local do diretorio atual. ex: cd<caminho>
+ls(list)-lista oque esta dentro do diretorio. ex:ls-al(lista de arquivos ocultos)
+clear(limpar)-limpa o terminal. ex:cls no windowns.
+git init(iniciar pasta)
+git status(verificar status)
+git add()
